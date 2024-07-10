@@ -1,4 +1,4 @@
-# After Class Notes #1
+# After-Class Notes #1
 
 2024/07/10 WED.
 
