@@ -1,10 +1,5 @@
 # After Class Notes #1
 
-Created time: July 10, 2024 10:20 PM
-Last edited time: July 10, 2024 11:04 PM
-Main Author: 瀚元 Juju
-Textbook?: No
-
 2024/07/10 WED.
 
 1. int64 vs. int8
